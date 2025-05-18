@@ -13,3 +13,6 @@ ouitils_HEADERS-$(THREADPOOL)+=threadpool.h
 # List FIFO tools
 ouitils_SOURCES-$(LIST)+=list.c
 ouitils_HEADERS-$(LIST)+=list.h
+# Char string tools
+ouitils_SOURCES-$(CHARSTRING)+=charstring.c
+ouitils_HEADERS-$(CHARSTRING)+=charstring.h

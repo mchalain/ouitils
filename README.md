@@ -7,6 +7,7 @@ Availables:
  - Log tools
  - Threadpool tools
  - List FIFO tools
+ - Char string tools
 
 ## Getting started
 
