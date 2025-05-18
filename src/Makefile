@@ -10,3 +10,6 @@ ouitils_HEADERS-$(LOGTOOLS)+=log.h
 # Threadpool tools
 ouitils_SOURCES-$(THREADPOOL)+=threadpool.c
 ouitils_HEADERS-$(THREADPOOL)+=threadpool.h
+# List FIFO tools
+ouitils_SOURCES-$(LIST)+=list.c
+ouitils_HEADERS-$(LIST)+=list.h

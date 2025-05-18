@@ -6,6 +6,7 @@ Availables:
  - Daemon tools
  - Log tools
  - Threadpool tools
+ - List FIFO tools
 
 ## Getting started
 
